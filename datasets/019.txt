@@ -1,0 +1,7 @@
+the house is not new but it is old <EOL>
+the house is not old but it is new <EOL>
+the house is not big but it is small <EOL>
+the house is not good but it is right <EOL>
+the house is not right but it is good <EOL>
+the house is not new but it is old <EOL>
+if it is not a man then it is a woman

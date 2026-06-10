@@ -4,7 +4,7 @@ import tempfile
 import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-import validate_dataset
+import datasets.validate_dataset as validate_dataset
 
 class TestValidator(unittest.TestCase):
 

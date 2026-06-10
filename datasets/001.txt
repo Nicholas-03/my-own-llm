@@ -1,0 +1,7 @@
+the man is not big but it is small <EOL>
+the man is not good but it is right <EOL>
+the man is not right but it is good <EOL>
+the man is not new but it is old <EOL>
+the man is not old but it is new <EOL>
+the man is not big but it is small <EOL>
+you will not come but you will go

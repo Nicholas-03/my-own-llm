@@ -1,0 +1,475 @@
+the man is not old but he is new <EOL>
+the man is not big but he is small <EOL>
+the man is not good but he is right <EOL>
+the man is not right but he is good <EOL>
+the man is not new but he is old <EOL>
+the man is not small but he is big <EOL>
+the woman is not old but she is new <EOL>
+the woman is not big but she is small <EOL>
+the woman is not good but she is right <EOL>
+the woman is not right but she is good <EOL>
+the woman is not new but she is old <EOL>
+the woman is not small but she is big <EOL>
+the child is not old but he is new <EOL>
+the child is not big but he is small <EOL>
+the child is not good but he is right <EOL>
+the child is not right but he is good <EOL>
+the child is not new but he is old <EOL>
+the child is not small but he is big <EOL>
+the day is not long but it is good <EOL>
+the day is not good but it is long <EOL>
+the day is not new but it is old <EOL>
+the day is not old but it is new <EOL>
+the day is not big but it is small <EOL>
+the day is not small but it is big <EOL>
+the time is not long but it is small <EOL>
+the time is not good but it is long <EOL>
+the time is not new but it is old <EOL>
+the time is not old but it is new <EOL>
+the time is not big but it is right <EOL>
+the time is not right but it is good <EOL>
+the world is not small but it is big <EOL>
+the world is not big but it is small <EOL>
+the world is not old but it is new <EOL>
+the world is not new but it is old <EOL>
+the world is not good but it is right <EOL>
+the world is not right but it is good <EOL>
+the house is not big but it is small <EOL>
+the house is not small but it is big <EOL>
+the house is not old but it is new <EOL>
+the house is not new but it is old <EOL>
+the house is not good but it is right <EOL>
+the house is not right but it is good <EOL>
+the water is not good but it is right <EOL>
+the water is not right but it is good <EOL>
+the water is not new but it is old <EOL>
+the water is not old but it is new <EOL>
+the water is not big but it is small <EOL>
+the water is not small but it is big <EOL>
+the food is not good but it is right <EOL>
+the food is not right but it is good <EOL>
+the food is not new but it is old <EOL>
+the food is not old but it is new <EOL>
+the food is not big but it is small <EOL>
+the food is not small but it is big <EOL>
+the life is not long but it is good <EOL>
+the life is not good but it is long <EOL>
+the life is not new but it is old <EOL>
+the life is not old but it is new <EOL>
+the life is not big but it is small <EOL>
+the life is not small but it is big <EOL>
+the way is not long but it is right <EOL>
+the way is not right but it is long <EOL>
+the way is not good but it is new <EOL>
+the way is not new but it is good <EOL>
+the way is not old but it is small <EOL>
+the way is not small but it is old <EOL>
+the thing is not big but it is small <EOL>
+the thing is not small but it is big <EOL>
+the thing is not old but it is new <EOL>
+the thing is not new but it is old <EOL>
+the thing is not good but it is right <EOL>
+the thing is not right but it is good <EOL>
+not old but new <EOL>
+not new but old <EOL>
+not big but small <EOL>
+not small but big <EOL>
+not good but right <EOL>
+not right but good <EOL>
+not long but small <EOL>
+not small but long <EOL>
+if it is not a man then it is a woman <EOL>
+if it is not a woman then it is a man <EOL>
+if it is not a child then it is a man <EOL>
+if it is not a man then it is a child <EOL>
+if it is not a house then it is a world <EOL>
+if it is not a world then it is a house <EOL>
+if it is not a day then it is a time <EOL>
+if it is not a time then it is a day <EOL>
+if it is not water then it is food <EOL>
+if it is not food then it is water <EOL>
+if it is not a life then it is a way <EOL>
+if it is not a way then it is a life <EOL>
+if it is not a thing then it is a way <EOL>
+if it is not a way then it is a thing <EOL>
+if the man is not old then he is new <EOL>
+if the man is not new then he is old <EOL>
+if the woman is not good then she is right <EOL>
+if the woman is not right then she is good <EOL>
+if the child is not big then he is small <EOL>
+if the child is not small then he is big <EOL>
+if the day is not long then it is small <EOL>
+if the time is not good then it is long <EOL>
+if the world is not big then it is small <EOL>
+if the house is not new then it is old <EOL>
+if the water is not good then it is right <EOL>
+if the food is not right then it is good <EOL>
+if the life is not long then it is good <EOL>
+if the way is not right then it is long <EOL>
+if the thing is not big then it is small <EOL>
+he is not old and she is not new <EOL>
+he is not big and she is not small <EOL>
+he is not good and she is not right <EOL>
+he is not new and she is not old <EOL>
+he is not small and she is not big <EOL>
+he is not right and she is not good <EOL>
+he is not long and she is not good <EOL>
+I will not go but I will come <EOL>
+I will not come but I will go <EOL>
+I will not work but I will help <EOL>
+I will not help but I will work <EOL>
+I will not give but I will get <EOL>
+I will not get but I will give <EOL>
+I will not make but I will find <EOL>
+I will not find but I will make <EOL>
+I will not ask but I will say <EOL>
+I will not say but I will ask <EOL>
+I will not take but I will give <EOL>
+I will not give but I will take <EOL>
+I will not see but I will know <EOL>
+I will not know but I will see <EOL>
+I will not want but I will need <EOL>
+I will not need but I will want <EOL>
+I will not put but I will give <EOL>
+I will not give but I will put <EOL>
+you will not go but you will come <EOL>
+you will not come but you will go <EOL>
+you will not work but you will help <EOL>
+you will not help but you will work <EOL>
+you will not give but you will get <EOL>
+you will not get but you will give <EOL>
+you will not make but you will find <EOL>
+you will not find but you will make <EOL>
+you will not ask but you will say <EOL>
+you will not say but you will ask <EOL>
+you will not see but you will know <EOL>
+you will not know but you will see <EOL>
+you will not want but you will need <EOL>
+you will not need but you will want <EOL>
+he will not go but he will come <EOL>
+he will not come but he will go <EOL>
+he will not work but he will help <EOL>
+he will not help but he will work <EOL>
+he will not give but he will get <EOL>
+he will not get but he will give <EOL>
+he will not make but he will find <EOL>
+he will not find but he will make <EOL>
+he will not ask but he will say <EOL>
+he will not say but he will ask <EOL>
+he will not see but he will know <EOL>
+he will not know but he will see <EOL>
+she will not go but she will come <EOL>
+she will not come but she will go <EOL>
+she will not work but she will help <EOL>
+she will not help but she will work <EOL>
+she will not give but she will get <EOL>
+she will not get but she will give <EOL>
+she will not make but she will find <EOL>
+she will not find but she will make <EOL>
+she will not ask but she will say <EOL>
+she will not say but she will ask <EOL>
+she will not see but she will know <EOL>
+she will not know but she will see <EOL>
+we will not go but we will come <EOL>
+we will not come but we will go <EOL>
+we will not work but we will help <EOL>
+we will not help but we will work <EOL>
+we will not give but we will get <EOL>
+we will not get but we will give <EOL>
+we will not make but we will find <EOL>
+we will not find but we will make <EOL>
+we will not ask but we will say <EOL>
+we will not say but we will ask <EOL>
+we will not see but we will know <EOL>
+we will not know but we will see <EOL>
+they will not go but they will come <EOL>
+they will not come but they will go <EOL>
+they will not work but they will help <EOL>
+they will not help but they will work <EOL>
+they will not give but they will get <EOL>
+they will not get but they will give <EOL>
+they will not make but they will find <EOL>
+they will not find but they will make <EOL>
+they will not ask but they will say <EOL>
+they will not say but they will ask <EOL>
+they will not see but they will know <EOL>
+they will not know but they will see <EOL>
+I can not go but I can come <EOL>
+I can not come but I can go <EOL>
+I can not work but I can help <EOL>
+I can not help but I can work <EOL>
+I can not give but I can get <EOL>
+I can not get but I can give <EOL>
+I can not make but I can find <EOL>
+I can not find but I can make <EOL>
+I can not ask but I can say <EOL>
+I can not say but I can ask <EOL>
+I can not see but I can know <EOL>
+I can not know but I can see <EOL>
+you can not go but you can come <EOL>
+you can not come but you can go <EOL>
+you can not work but you can help <EOL>
+you can not help but you can work <EOL>
+you can not give but you can get <EOL>
+you can not get but you can give <EOL>
+you can not make but you can find <EOL>
+you can not find but you can make <EOL>
+you can not ask but you can say <EOL>
+you can not say but you can ask <EOL>
+you can not see but you can know <EOL>
+you can not know but you can see <EOL>
+he can not go but he can come <EOL>
+he can not come but he can go <EOL>
+he can not work but he can help <EOL>
+he can not help but he can work <EOL>
+he can not give but he can get <EOL>
+he can not get but he can give <EOL>
+he can not make but he can find <EOL>
+he can not find but he can make <EOL>
+she can not go but she can come <EOL>
+she can not come but she can go <EOL>
+she can not work but she can help <EOL>
+she can not help but she can work <EOL>
+she can not give but she can get <EOL>
+she can not get but she can give <EOL>
+she can not make but she can find <EOL>
+she can not find but she can make <EOL>
+we can not go but we can come <EOL>
+we can not come but we can go <EOL>
+we can not work but we can help <EOL>
+we can not help but we can work <EOL>
+they can not go but they can come <EOL>
+they can not come but they can go <EOL>
+they can not work but they can help <EOL>
+they can not help but they can work <EOL>
+the man is not in the house but he is in the world <EOL>
+the woman is not in the world but she is in the house <EOL>
+the child is not in the house but he is in the world <EOL>
+the man is not at the house but he is at the way <EOL>
+the woman is not at the way but she is at the house <EOL>
+the child is not at the world but he is at the house <EOL>
+the man is not here but he is there <EOL>
+the woman is not there but she is here <EOL>
+the child is not here but he is there <EOL>
+the day is not here but it is there <EOL>
+the time is not there but it is here <EOL>
+the world is not here but it is there <EOL>
+the house is not there but it is here <EOL>
+the water is not here but it is there <EOL>
+the food is not there but it is here <EOL>
+the life is not here but it is there <EOL>
+the way is not there but it is here <EOL>
+the thing is not here but it is there <EOL>
+the man was not old but he is new <EOL>
+the man was not new but he is old <EOL>
+the man was not big but he is small <EOL>
+the man was not small but he is big <EOL>
+the man was not good but he is right <EOL>
+the man was not right but he is good <EOL>
+the woman was not old but she is new <EOL>
+the woman was not new but she is old <EOL>
+the woman was not big but she is small <EOL>
+the woman was not small but she is big <EOL>
+the woman was not good but she is right <EOL>
+the woman was not right but she is good <EOL>
+the child was not old but he is new <EOL>
+the child was not new but he is old <EOL>
+the child was not big but he is small <EOL>
+the child was not small but he is big <EOL>
+the child was not good but he is right <EOL>
+the child was not right but he is good <EOL>
+the day was not long but it is good <EOL>
+the day was not good but it is long <EOL>
+the time was not long but it is good <EOL>
+the time was not good but it is long <EOL>
+the world was not big but it is small <EOL>
+the world was not small but it is big <EOL>
+the house was not old but it is new <EOL>
+the house was not new but it is old <EOL>
+the water was not good but it is right <EOL>
+the water was not right but it is good <EOL>
+the food was not good but it is right <EOL>
+the food was not right but it is good <EOL>
+the life was not long but it is good <EOL>
+the life was not good but it is long <EOL>
+the way was not right but it is long <EOL>
+the way was not long but it is right <EOL>
+the thing was not big but it is small <EOL>
+the thing was not small but it is big <EOL>
+the man is not a child but he is a man <EOL>
+the woman is not a child but she is a woman <EOL>
+the child is not a man but he is a child <EOL>
+this is not a house but it is a world <EOL>
+this is not a world but it is a house <EOL>
+this is not a man but it is a woman <EOL>
+this is not a woman but it is a man <EOL>
+this is not a day but it is a time <EOL>
+this is not a time but it is a day <EOL>
+this is not water but it is food <EOL>
+this is not food but it is water <EOL>
+this is not a life but it is a way <EOL>
+this is not a way but it is a life <EOL>
+this is not a thing but it is a way <EOL>
+this is not a way but it is a thing <EOL>
+that is not a house but it is a world <EOL>
+that is not a world but it is a house <EOL>
+that is not a man but it is a woman <EOL>
+that is not a woman but it is a man <EOL>
+that is not a day but it is a time <EOL>
+that is not a time but it is a day <EOL>
+that is not water but it is food <EOL>
+that is not food but it is water <EOL>
+that is not a life but it is a way <EOL>
+that is not a way but it is a life <EOL>
+I have not got the food but I have the water <EOL>
+I have not got the water but I have the food <EOL>
+I have not got the house but I have the way <EOL>
+I have not got the way but I have the house <EOL>
+you have not got the food but you have the water <EOL>
+you have not got the water but you have the food <EOL>
+he has not got the house but he has the way <EOL>
+she has not got the way but she has the house <EOL>
+we have not got the food but we have the water <EOL>
+they have not got the water but they have the food <EOL>
+I want not the old way but the new way <EOL>
+I want not the big world but the small world <EOL>
+I want not the long day but the good day <EOL>
+you want not the old house but the new house <EOL>
+you want not the big thing but the small thing <EOL>
+he want not the long time but the good time <EOL>
+she want not the old life but the new life <EOL>
+we want not the big world but the small world <EOL>
+they want not the long day but the good day <EOL>
+I need not the old way but the new way <EOL>
+I need not the big world but the small world <EOL>
+you need not the old house but the new house <EOL>
+he need not the long time but the good time <EOL>
+she need not the old life but the new life <EOL>
+we need not the big world but the small world <EOL>
+they need not the long day but the good day <EOL>
+the man went not to the house but to the world <EOL>
+the woman went not to the world but to the house <EOL>
+the child went not to the way but to the house <EOL>
+I went not to the world but to the house <EOL>
+you went not to the house but to the world <EOL>
+he went not to the way but to the house <EOL>
+she went not to the house but to the way <EOL>
+we went not to the world but to the house <EOL>
+they went not to the house but to the world <EOL>
+the man came not from the world but from the house <EOL>
+the woman came not from the house but from the world <EOL>
+the child came not from the way but from the house <EOL>
+I came not from the world but from the house <EOL>
+you came not from the house but from the world <EOL>
+he came not from the way but from the house <EOL>
+she came not from the house but from the way <EOL>
+we came not from the world but from the house <EOL>
+they came not from the house but from the world <EOL>
+the man got not the food but the water <EOL>
+the woman got not the water but the food <EOL>
+the child got not the big thing but the small thing <EOL>
+I got not the old life but the new life <EOL>
+you got not the new life but the old life <EOL>
+he got not the long day but the good day <EOL>
+she got not the good day but the long day <EOL>
+we got not the big world but the small world <EOL>
+they got not the small world but the big world <EOL>
+the man made not the house but the way <EOL>
+the woman made not the way but the house <EOL>
+the child made not the big thing but the small thing <EOL>
+I made not the old thing but the new thing <EOL>
+you made not the new thing but the old thing <EOL>
+he made not the long way but the right way <EOL>
+she made not the right way but the long way <EOL>
+we made not the big house but the small house <EOL>
+they made not the small house but the big house <EOL>
+the man said not this but that <EOL>
+the woman said not that but this <EOL>
+the child said not this but that <EOL>
+I said not this but that <EOL>
+you said not that but this <EOL>
+he said not this but that <EOL>
+she said not that but this <EOL>
+we said not this but that <EOL>
+they said not that but this <EOL>
+the man knew not the way but he knew the world <EOL>
+the woman knew not the world but she knew the way <EOL>
+the child knew not the time but he knew the day <EOL>
+I knew not the way but I knew the world <EOL>
+you knew not the world but you knew the way <EOL>
+he knew not the time but he knew the day <EOL>
+she knew not the day but she knew the time <EOL>
+we knew not the way but we knew the world <EOL>
+they knew not the world but they knew the way <EOL>
+it is not a good day but it is a long day <EOL>
+it is not a long day but it is a good day <EOL>
+it is not a good time but it is a long time <EOL>
+it is not a long time but it is a good time <EOL>
+it is not a big world but it is a small world <EOL>
+it is not a small world but it is a big world <EOL>
+it is not a big house but it is a small house <EOL>
+it is not a small house but it is a big house <EOL>
+it is not a good life but it is a long life <EOL>
+it is not a long life but it is a good life <EOL>
+it is not a right way but it is a long way <EOL>
+it is not a long way but it is a right way <EOL>
+it is not a good thing but it is a right thing <EOL>
+it is not a right thing but it is a good thing <EOL>
+it is not a big thing but it is a small thing <EOL>
+it is not a small thing but it is a big thing <EOL>
+it is not a new day but it is an old day <EOL>
+it is not an old day but it is a new day <EOL>
+it is not a new time but it is an old time <EOL>
+it is not an old time but it is a new time <EOL>
+it is not a new world but it is an old world <EOL>
+it is not an old world but it is a new world <EOL>
+it is not a new house but it is an old house <EOL>
+it is not an old house but it is a new house <EOL>
+it is not a new life but it is an old life <EOL>
+it is not an old life but it is a new life <EOL>
+it is not a new way but it is an old way <EOL>
+it is not an old way but it is a new way <EOL>
+it is not a new thing but it is an old thing <EOL>
+it is not an old thing but it is a new thing <EOL>
+the man is not here now but he will come <EOL>
+the woman is not here now but she will come <EOL>
+the child is not here now but he will come <EOL>
+the day is not good now but it will be good <EOL>
+the time is not long now but it will be long <EOL>
+the world is not big now but it will be big <EOL>
+the house is not new now but it will be new <EOL>
+the water is not good now but it will be good <EOL>
+the food is not right now but it will be right <EOL>
+the life is not long now but it will be long <EOL>
+the way is not right now but it will be right <EOL>
+the thing is not good now but it will be good <EOL>
+I will not be old but I will be new <EOL>
+I will not be new but I will be old <EOL>
+I will not be big but I will be small <EOL>
+I will not be small but I will be big <EOL>
+I will not be good but I will be right <EOL>
+I will not be right but I will be good <EOL>
+you will not be old but you will be new <EOL>
+you will not be new but you will be old <EOL>
+you will not be big but you will be small <EOL>
+you will not be small but you will be big <EOL>
+he will not be old but he will be new <EOL>
+he will not be new but he will be old <EOL>
+he will not be big but he will be small <EOL>
+he will not be small but he will be big <EOL>
+she will not be old but she will be new <EOL>
+she will not be new but she will be old <EOL>
+she will not be big but she will be small <EOL>
+she will not be small but she will be big <EOL>
+we will not be old but we will be new <EOL>
+we will not be new but we will be old <EOL>
+they will not be old but they will be new <EOL>
+they will not be new but they will be old <EOL>
+it will not be old but it will be new <EOL>
+it will not be new but it will be old <EOL>
+it will not be big but it will be small <EOL>
+it will not be small but it will be big <EOL>
+it will not be good but it will be right <EOL>
+it will not be right but it will be good <EOL>
+it will not be long but it will be right <EOL>
+it will not be right but it will be long <EOL>

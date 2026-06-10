@@ -1,0 +1,7 @@
+the time is not good but it is right <EOL>
+the time is not right but it is good <EOL>
+the time is not new but it is old <EOL>
+the time is not old but it is new <EOL>
+the time is not big but it is small <EOL>
+the time is not good but it is right <EOL>
+we will not work but we will help

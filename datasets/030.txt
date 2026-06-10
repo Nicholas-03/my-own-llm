@@ -1,0 +1,7 @@
+the world is not old but it is new <EOL>
+the world is not big but it is small <EOL>
+the world is not good but it is right <EOL>
+the world is not right but it is good <EOL>
+the world is not new but it is old <EOL>
+the world is not old but it is new <EOL>
+i will not go but i will come
